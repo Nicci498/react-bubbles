@@ -18,6 +18,12 @@ body,
   svg {
     height: 100%;
   }
+
+  .formParent{
+    margin: 0 auto;
+    
+
+  }
 }
 
 .spacer {
@@ -80,7 +86,9 @@ form {
   }
 
   input {
-    width: 100px;
+    margin:1%;
+    padding: 12px 20px;
+    padding-top: 2%;
   }
 }
 
